@@ -1,0 +1,8 @@
+org/openmrs/module/sessionlogger/api/db/SessionloggerDao.class
+org/openmrs/module/sessionlogger/api/SessionloggerService.class
+org/openmrs/module/sessionlogger/SessionLogger.class
+org/openmrs/module/sessionlogger/Item.class
+org/openmrs/module/sessionlogger/api/impl/SessionloggerServiceImpl.class
+org/openmrs/module/sessionlogger/api/dao/SessionloggerDao.class
+org/openmrs/module/sessionlogger/SessionloggerConfig.class
+org/openmrs/module/sessionlogger/SessionloggerActivator.class

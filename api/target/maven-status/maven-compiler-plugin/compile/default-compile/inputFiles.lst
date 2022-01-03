@@ -1,0 +1,8 @@
+/home/abertnamanya/projects/sessionlogger/api/src/main/java/org/openmrs/module/sessionlogger/api/dao/SessionloggerDao.java
+/home/abertnamanya/projects/sessionlogger/api/src/main/java/org/openmrs/module/sessionlogger/SessionloggerConfig.java
+/home/abertnamanya/projects/sessionlogger/api/src/main/java/org/openmrs/module/sessionlogger/api/db/SessionloggerDao.java
+/home/abertnamanya/projects/sessionlogger/api/src/main/java/org/openmrs/module/sessionlogger/api/impl/SessionloggerServiceImpl.java
+/home/abertnamanya/projects/sessionlogger/api/src/main/java/org/openmrs/module/sessionlogger/api/SessionloggerService.java
+/home/abertnamanya/projects/sessionlogger/api/src/main/java/org/openmrs/module/sessionlogger/Item.java
+/home/abertnamanya/projects/sessionlogger/api/src/main/java/org/openmrs/module/sessionlogger/SessionLogger.java
+/home/abertnamanya/projects/sessionlogger/api/src/main/java/org/openmrs/module/sessionlogger/SessionloggerActivator.java
